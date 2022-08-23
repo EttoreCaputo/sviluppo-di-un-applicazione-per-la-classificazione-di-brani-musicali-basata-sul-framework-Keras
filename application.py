@@ -1,7 +1,4 @@
 __author__ = "Ettore Caputo"
-__copyright__ = "..."
-
-__license__ = "..."
 __version__ = "0.1"
 __email__ = "ettore.caputo27@gmail.com"
 
